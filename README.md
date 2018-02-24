@@ -1,3 +1,3 @@
 # MIPS
 Million Instructions Per Second MicroProcessor using VHDL language.
-I also made controlle (brain of the microprocessor).
+Controller is also made. (brain of the microprocessor).
